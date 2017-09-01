@@ -1,0 +1,83 @@
+
+.menu_superior{
+/*	float: unset;*/
+	font-size: 30px;
+/*	margin-right: 50px;
+	float:left;
+	height: 100%;*/
+	text-align: center;
+	background: black; /*cor do fundo*/
+
+	
+
+}
+
+a{
+	text-decoration: none; /*tira o sublinhado*/
+	color:white; /*cor do texto*/
+
+}
+
+h1{
+	text-align: center;
+	font-family: Castellar;
+	color: white;
+}
+
+.menu_nome{
+	text-align: center;
+	color:white;
+
+}
+
+/*img{
+	float: right;
+}
+*/
+
+.pos_imag img{
+	float: right;
+	margin-right: 580px;
+	margin-top: 50px;
+}
+
+.menu_texto {
+	margin-top: 350px;
+	text-align: center;
+	color:white;
+	font-family: Calibri;
+}
+
+.about_imagem img{
+	float: right;
+	margin-right: 550px;
+	margin-top: 50px;
+
+}
+
+.projetos_img img{
+	float: right;
+	margin-right: 250px;
+	margin-top: 50px;
+
+}
+
+.img_projeto img{
+	float: right;
+	margin-right: 470px;
+	margin-top: 45px;
+
+}
+
+.txt_projetos {
+	margin-top: 350px;
+	text-align: center;
+	color:white;
+	font-family: Calibri;
+}
+
+.descricao_projetos {
+	margin-top: 50px;
+	color:white;
+	font-family: Calibri;
+}
